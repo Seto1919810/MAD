@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">LearnActivity</string>
+    <string name="text_welcome">Hello Android</string>
+    <string name="btn_txt_login">登录</string>
+    <string name="text_open_baidu">打开百度</string>
+</resources>
